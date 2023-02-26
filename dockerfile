@@ -1,6 +1,6 @@
 FROM node:latest
 
-WORKDIR /var/jenkins_home/workspace/test
+# WORKDIR /var/jenkins_home/workspace/test
 
 COPY package.json ./
 
